@@ -1,3 +1,4 @@
 I am in the Squash Branch
 This commit is from the Bash
 Line ending test
+This is the new line
